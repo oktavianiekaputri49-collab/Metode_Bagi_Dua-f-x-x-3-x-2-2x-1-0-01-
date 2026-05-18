@@ -1,0 +1,29 @@
+📊 Metode Bagi Dua (Bisection Method)
+Deskripsi
+Proyek ini berfokus pada implementasi Metode Bagi Dua (Bisection Method) untuk mencari akar dari persamaan nonlinear
+f(x)=x^3+x^2−2x−1 menggunakan pendekatan iteratif hingga mencapai tingkat error tertentu.
+
+Persamaan yang Diselesaikan
+f(x)=x^3+x^2−2x−1
+Metode: Bisection Method (Metode Bagi Dua)
+
+Tools & Metode yang Digunakan
+Microsoft Excel
+Metode Numerik: Bisection Method
+Iterasi dan perhitungan error relatif
+
+Hasil
+Akar persamaan berhasil ditemukan secara numerik
+Proses iterasi berhenti saat error mencapai 0,01%
+Solusi konvergen dalam beberapa iterasi
+
+Tujuan Proyek
+Memahami konsep metode numerik dalam pencarian akar
+Menganalisis proses iterasi dan konvergensi
+Menerapkan metode Bisection secara praktis
+
+Insight
+Metode Bisection menunjukkan bagaimana pendekatan numerik dapat digunakan untuk menyelesaikan persamaan nonlinear secara bertahap hingga mencapai hasil yang stabil dan akurat.
+
+Penutup
+Proyek ini merupakan latihan dalam metode numerik untuk memahami proses iteratif dan analisis error dalam penyelesaian persamaan.
